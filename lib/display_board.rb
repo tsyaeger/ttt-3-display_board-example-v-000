@@ -4,4 +4,4 @@ board = [" "] * 9
 ix = 0
 
 def display_board
-  p
+end
