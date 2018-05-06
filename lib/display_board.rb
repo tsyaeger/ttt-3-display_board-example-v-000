@@ -4,5 +4,4 @@ board = [" "] * 9
 ix = 0
 
 def display_board
-  print board[ix]
-  ix + 1
+  print board[0]
