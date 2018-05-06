@@ -3,7 +3,7 @@
 
 
 def display_board
-  board = [" "] * 9
+  board = ["   "] * 9
   ln = "-----------"
   puts board[0] + "|" + board[1] + "|" + board[2]
   puts ln
